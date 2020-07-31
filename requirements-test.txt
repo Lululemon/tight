@@ -17,7 +17,7 @@ pylint==1.9.3
 pytest==3.0.5
 pytest-cov==2.6.0
 python-dateutil==2.6.0
-PyYAML==3.13
+PyYAML==5.1
 s3transfer==0.1.13
 six==1.10.0
 urllib3==1.23
